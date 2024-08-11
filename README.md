@@ -3,7 +3,9 @@ The main objective is to find the most efficient deep learning model, optimize i
 
 CNN (Convolutional Neural Network) was chosen for its effectiveness in image processing. 
 The report compares CNN with other models, ultimately selecting CNN for its superior performance in this task.
-The report highlights the critical role of model selection and tuning in deep learning, offering practical insights into these processes.
+Additionally, the report highlights the critical role of model selection and tuning in deep learning, offering practical insights into these processes.
 
-The report is uploaded as 'report.pdf'
-All files used in the project are uploaded as 'PJ_20171257.zip'
+The written report is uploaded as:
+'report.pdf'
+All files used in the project are uploaded under the name:
+'PJ_20171257.zip'
