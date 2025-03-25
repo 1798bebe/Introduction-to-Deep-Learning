@@ -10,3 +10,5 @@ The written report is uploaded as:
 
 All files used in the project are uploaded under the name:
 'PJ_20171257.zip'
+
+![image](https://github.com/user-attachments/assets/161a5a42-a1d1-4d6c-af85-f724eb500b16)
