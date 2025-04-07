@@ -7,7 +7,7 @@ Additionally, the report highlights the critical role of model selection and tun
 
 The written report is uploaded as:
 'report.pdf'
-[Read the report (PDF)](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
+[report (PDF)](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
 
 All files used in the project are uploaded under the name:
 'PJ_20171257.zip'
