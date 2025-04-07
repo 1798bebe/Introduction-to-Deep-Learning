@@ -5,11 +5,17 @@ CNN (Convolutional Neural Network) was chosen for its effectiveness in image pro
 The report compares CNN with other models, ultimately selecting CNN for its superior performance in this task.
 Additionally, the report highlights the critical role of model selection and tuning in deep learning, offering practical insights into these processes.
 
-The written report is uploaded as:
-[📄 report (PDF)](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
+### 📚 Project Files – Introduction to Deep Learning
 
-All files used in the project are uploaded under the name:
-'PJ_20171257.zip'
+- 📄 **Written Report (PDF):**  
+  [View Report](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
+
+- 🧠 **Training Script:**  
+  [train_20171257.py](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/train_20171257.py)
+
+- 🧪 **Testing Script:**  
+  [test_20171257.py](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/test_20171257.py)
+  
 
 ![image](https://github.com/user-attachments/assets/39e8d7d3-0c9d-4ad9-80c9-261b3ca7c113)
 
