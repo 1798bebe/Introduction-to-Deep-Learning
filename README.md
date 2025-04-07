@@ -6,8 +6,7 @@ The report compares CNN with other models, ultimately selecting CNN for its supe
 Additionally, the report highlights the critical role of model selection and tuning in deep learning, offering practical insights into these processes.
 
 The written report is uploaded as:
-'report.pdf'
-[report (PDF)](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
+[📄 report (PDF)](https://github.com/1798bebe/Introduction-to-Deep-Learning/blob/main/report.pdf)
 
 All files used in the project are uploaded under the name:
 'PJ_20171257.zip'
